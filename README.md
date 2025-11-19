@@ -8,7 +8,7 @@
 
 ## Estou aprendendo:
 
-<img loading="lazy" src="https://img.icons8.com/color/48/html-5--v1.png" width="40" height="40"/> <img loading="lazy" src="" width="40" height="40"/> <img loading="lazy" src="" width="40" height="40"/> <img loading="lazy" src="" width="40" height="40"/>
+<img loading="lazy" src="https://img.icons8.com/color/48/html-5--v1.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/css3.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/javascript--v1.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" width="40" height="40"/>
 
 
 ## Contatos:
