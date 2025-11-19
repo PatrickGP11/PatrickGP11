@@ -19,6 +19,7 @@
 <a href="patrickgonsalves06@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![ Status](https://github-readme-stats.vercel.app/api?username=PatrickGP11&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickGP11&layout=compact)](https://github.com/PatrickGP11/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/PatrickGP11/github-readme-stats)
+![PatrickGP11 GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickGP11&hide=contribs,prs) ![PatrickGP11 GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickGP11&show_icons=true) ![PatrickGP11 GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickGP11&commits_year=2020) ![PatrickGP11 GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickGP11&show_icons=true&theme=radical)
+
+
+
