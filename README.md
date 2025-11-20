@@ -1,4 +1,8 @@
-## Olá, me chamo Patrick Gonçalves Pinheiro👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=35007c&center=true&vCenter=true&width=650&lines=Olá%2C+me+chamo+Patrick+Gonçalves+Pinheiro!;Estudante+de+ADS;Web+Designer" alt="Typing SVG" />
+</div>
+
+## Seja Bem-Vindo ao meu Portfólio!!
 
 - 🌱 Atualmente estou aprendendo HTML5, CSS3 e Javascript.
   
