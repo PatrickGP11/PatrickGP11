@@ -15,9 +15,8 @@
 <img loading="lazy" src="https://img.icons8.com/color/48/html-5--v1.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/css3.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/javascript--v1.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" width="40" height="40"/>
 
 
-## Contatos:
-
-<div>
+<div align="center"> 
+ ## <h2 align="center">Contatos<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
 <a href="https://www.linkedin.com/public-profile/settings" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/patrick_goncalves06/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="patrickgonsalves06@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
