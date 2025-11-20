@@ -7,6 +7,8 @@
 - 🌱 Atualmente estou aprendendo HTML5, CSS3 e Javascript.
   
 - 💻 Buscando sempre aprender novas tecnologias de Front-End, Back End, Banco de Dados e Mobile.
+
+- 💼 Em busca de uma oportunidade no mercado de trabalho para inicio de carreira na área de Programação, como Programador Júnior
   
 - 🧑‍🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Flamingo.
 
