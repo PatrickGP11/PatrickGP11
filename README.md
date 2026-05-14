@@ -1,4 +1,4 @@
-<div align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b4d9fad6-bf28-4789-bb46-e46dbe25f683" /><div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=33ccff&center=true&vCenter=true&width=650&lines=Olá%2C+me+chamo+Patrick+Gonçalves+Pinheiro!;Aluno+de+ADS;Web+Designer" alt="Typing SVG" />
 </div>
 
@@ -14,7 +14,7 @@
 
 ## Estou aprendendo:
 
-<img loading="lazy" src="https://img.icons8.com/color/48/html-5--v1.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/css3.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/javascript--v1.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" width="40" height="40"/>
+<img loading="lazy" src="https://img.icons8.com/color/48/html-5--v1.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/css3.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/javascript--v1.png" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" width="40" height="40"/> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> 
 
 ##
 
