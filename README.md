@@ -1,6 +1,6 @@
-# Olá, eu sou o Patrick Gonçalves Pinheiro!
+# Olá, eu sou o Patrick Gonçalves Pinheiro! # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Seja Bem-Vindo ao meu Portfólio!
+## Seja Bem-Vindo ao meu Portfólio!
 
 - 🌱 Atualmente estou aprendendo HTML5, CSS3 e Javascript.
   
