@@ -1,5 +1,3 @@
-font=Fira+Code&size=26&duration=3000&pause=1000&color=33ccff&center=true&vCenter=true&width=650&lines=Olá%2C+me+chamo+Patrick+Gonçalves+Pinheiro!;Aluno+de+ADS;Web+Designer" alt="Typing SVG" />
-</div>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Seja Bem-Vindo ao meu Portfólio!
 
